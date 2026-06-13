@@ -20,7 +20,7 @@ export const botConfig = {
     // 1 = Streaming
     // 2 = Listening
     // 3 = Watching
-    // 4 = Custom
+    // 4 = Made by Seamus
     // 5 = Competing
     activities: [
       {
